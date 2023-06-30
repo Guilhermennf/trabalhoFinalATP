@@ -1,0 +1,8 @@
+Produto A
+18
+Produto B
+0
+Produto C
+0
+Produto D
+0
